@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "name": "veer",
+      "email": "pal",
+      "password": "mj,m",
+      "id": 3
+    },
+    {
+      "name": "sasdz",
+      "email": "dszfxv",
+      "password": "szdxf",
+      "id": 4
+    },
+    {
+      "name": "dsfc",
+      "email": "cxv ",
+      "password": "fcvb ",
+      "id": 5
+    },
+    {
+      "name": "cfxdxvc",
+      "email": "vcvbc ",
+      "password": "bb",
+      "id": 6
+    }
+  ]
+}
